@@ -16,7 +16,7 @@ It can automatically fetch large-scale text corpora (e.g., WikiText) from Kaggle
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/<your-username>/similar-word-finder.git
+git clone https://github.com/justinbrianhwang/similar-word-finder-NLP-.git
 cd similar-word-finder
 pip install -r requirements.txt
 ```
