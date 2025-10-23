@@ -2,6 +2,7 @@
 
 This repository implements a **Skip-Gram Negative Sampling (SGNS)** model — a Word2Vec variant — to learn word embeddings and find semantically similar words.  
 It can automatically fetch large-scale text corpora (e.g., WikiText) from Kaggle for training.
+
 <img width="348" height="209" alt="image" src="https://github.com/user-attachments/assets/591face9-427b-48a2-bedb-bb142b28c665" />
 
 <img width="561" height="528" alt="image" src="https://github.com/user-attachments/assets/37747a1d-e81b-473b-829b-449ebb7bc908" />
